@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/9178aa38-5ba3-44ed-b27f-0c03f5338130)
+
+
 # portfolio
  Predicting Stock Movement
 This Streamlit app predicts whether a stock's closing price will increase or decrease the next day based on historical data. It includes robust data visualizations and a machine-learning pipeline.
@@ -38,6 +41,7 @@ Features
 Data Cleaning:
 
 Standardized column names and handled missing values.
+
 Visualizations:
 
 Sales by Category: A bar chart showcasing the contribution of each category to the revenue.
