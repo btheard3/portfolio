@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9178aa38-5ba3-44ed-b27f-0c03f5338130)
+![image](https://github.com/user-attachments/assets/0ff03a4c-7985-4a63-8e6b-59c6c0076bd8)
 
 
 # portfolio
