@@ -28,3 +28,36 @@ Moving Averages with Price
 Confusion Matrix
 
 ![image](https://github.com/user-attachments/assets/31d28a8a-c2ef-446e-979e-1a6c90a6b340)
+
+
+
+Amazon Sales Analysis
+This project analyzes Amazon sales data to uncover trends, visualize sales distribution, and predict future performance.
+
+Features
+Data Cleaning:
+
+Standardized column names and handled missing values.
+Visualizations:
+
+Sales by Category: A bar chart showcasing the contribution of each category to the revenue.
+Sales Trend Over Time: A line graph visualizing sales performance monthly.
+Order Status Distribution: A pie chart analyzing order fulfillment status.
+Predictive Modeling:
+
+Built machine learning models (Decision Tree, Random Forest, and KNN) for revenue prediction.
+Optimized Random Forest performance using hyperparameter tuning.
+Screenshots:
+
+Sales Trend Over Time
+
+![image](https://github.com/user-attachments/assets/fdfa446e-33c3-4dfc-aa33-905c0f7ca6aa)
+
+Sales by Category
+
+![image](https://github.com/user-attachments/assets/6bbf514a-660c-43ae-bbb1-309bf56865a4)
+
+Order Status Distribution
+
+![image](https://github.com/user-attachments/assets/b9ab6865-e4a2-4004-9855-ff9a283c1ea7)
+
