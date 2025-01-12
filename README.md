@@ -38,34 +38,30 @@ Confusion Matrix
 
 
 
-Amazon Sales Analysis
-This project analyzes Amazon sales data to uncover trends, visualize sales distribution, and predict future performance.
+# Amazon Sales Analysis
 
-Features
-Data Cleaning:
+This Streamlit app provides insights into Amazon sales data through various visualizations and machine learning models. It helps explore patterns, trends, and correlations within the dataset and predicts sales using advanced regression techniques.
 
-Standardized column names and handled missing values.
+## 🔗 Live Demo
+[Click here to explore the app!](https://amazonanalysis.streamlit.app/)
 
-Visualizations:
+## Key Features
+1. **Data Cleaning**: Handles missing values, removes irrelevant columns, and standardizes date formats for analysis.
+2. **Feature Engineering**: Extracts temporal features (Month, Year) and applies dimensionality reduction using PCA for improved modeling.
+3. **Exploratory Data Analysis (EDA)**: Provides interactive visualizations to explore sales trends, category contributions, and correlations.
+4. **Machine Learning Models**: Implements Decision Tree, Random Forest, and K-Nearest Neighbors regressors to predict sales, with an RMSE comparison.
 
-Sales by Category: A bar chart showcasing the contribution of each category to the revenue.
-Sales Trend Over Time: A line graph visualizing sales performance monthly.
-Order Status Distribution: A pie chart analyzing order fulfillment status.
-Predictive Modeling:
+---
 
-Built machine learning models (Decision Tree, Random Forest, and KNN) for revenue prediction.
-Optimized Random Forest performance using hyperparameter tuning.
-Screenshots:
+## Visualizations
 
-Sales Trend Over Time
+### 1. **Total Sales per Category**
+   - A bar chart displays total sales revenue for each product category.
+   - **Insight**: Identify top-performing categories and focus on their growth.
+   - ![image](https://github.com/user-attachments/assets/f20c945e-177a-4f65-97c7-324f782c63d5)
 
-![image](https://github.com/user-attachments/assets/fdfa446e-33c3-4dfc-aa33-905c0f7ca6aa)
 
-Sales by Category
-
-![image](https://github.com/user-attachments/assets/6bbf514a-660c-43ae-bbb1-309bf56865a4)
-
-Order Status Distribution
-
-![image](https://github.com/user-attachments/assets/b9ab6865-e4a2-4004-9855-ff9a283c1ea7)
-
+### 2. **Monthly Sales Trend**
+   - A line chart shows how sales evolve monthly over multiple years.
+   - **Insight**: Detect seasonal patterns or periods of high/low sales.
+   - ![image](https://github.com/user-attachments/assets/3fb49cd8-25c8-48ec-a496-d224f3da11a4)
